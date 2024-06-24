@@ -1,2 +1,3 @@
 # Geospatial-Analysis
-Repo containg assignments gor geospatial analysis course
+
+This repo contains the assignments and labs for the course Geospatial Analysis and Remote Sensing, a requirement for the Master of Environmental Science Degree from the University of California, Santa Barbara. The course description is as follows: Introduces the spatial modelings and analytic techniques of geographic information science to data science to students. The emphasis is on deep understanding of spatial data models and the analytical operations they enable. Recognizing remotely sensed data as a key data type within environmental data science, this course also introduces fundamental concepts and applications of remote sensing. In addiiton to this theoretical background, students become familiar with libraries, packages, and APIs that are used for spatial analysis in R. 
